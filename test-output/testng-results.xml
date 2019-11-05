@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="68724" started-at="2019-11-05T11:20:29Z" finished-at="2019-11-05T11:21:37Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="68724" started-at="2019-11-05T11:20:29Z" finished-at="2019-11-05T11:21:37Z">
+      <class name="scripts.Acti_time">
+        <test-method status="PASS" signature="openappln()[pri:0, instance:scripts.Acti_time@457e2f02]" name="openappln" is-config="true" duration-ms="6832" started-at="2019-11-05T16:51:12Z" finished-at="2019-11-05T16:51:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openappln -->
+        <test-method status="PASS" signature="test()[pri:0, instance:scripts.Acti_time@457e2f02]" name="test" duration-ms="5985" started-at="2019-11-05T16:51:19Z" finished-at="2019-11-05T16:51:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="closeappln()[pri:0, instance:scripts.Acti_time@457e2f02]" name="closeappln" is-config="true" duration-ms="12522" started-at="2019-11-05T16:51:25Z" finished-at="2019-11-05T16:51:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeappln -->
+      </class> <!-- scripts.Acti_time -->
+      <class name="scripts.Acti_time3">
+        <test-method status="PASS" signature="openappln()[pri:0, instance:scripts.Acti_time3@4cc0edeb]" name="openappln" is-config="true" duration-ms="7367" started-at="2019-11-05T16:50:46Z" finished-at="2019-11-05T16:50:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openappln -->
+        <test-method status="PASS" signature="test()[pri:0, instance:scripts.Acti_time3@4cc0edeb]" name="test" duration-ms="13776" started-at="2019-11-05T16:50:53Z" finished-at="2019-11-05T16:51:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="closeappln()[pri:0, instance:scripts.Acti_time3@4cc0edeb]" name="closeappln" is-config="true" duration-ms="4817" started-at="2019-11-05T16:51:07Z" finished-at="2019-11-05T16:51:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeappln -->
+      </class> <!-- scripts.Acti_time3 -->
+      <class name="scripts.Acti_time2">
+        <test-method status="PASS" signature="openappln()[pri:0, instance:scripts.Acti_time2@7823a2f9]" name="openappln" is-config="true" duration-ms="8976" started-at="2019-11-05T16:50:29Z" finished-at="2019-11-05T16:50:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openappln -->
+        <test-method status="PASS" signature="test()[pri:0, instance:scripts.Acti_time2@7823a2f9]" name="test" duration-ms="3632" started-at="2019-11-05T16:50:38Z" finished-at="2019-11-05T16:50:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="closeappln()[pri:0, instance:scripts.Acti_time2@7823a2f9]" name="closeappln" is-config="true" duration-ms="4794" started-at="2019-11-05T16:50:41Z" finished-at="2019-11-05T16:50:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeappln -->
+      </class> <!-- scripts.Acti_time2 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
